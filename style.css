@@ -68,6 +68,9 @@ button {
 .prizes h1 {
   color: var(--Green-500);
 }
+.prizes p {
+    text-decoration: line-through;
+}
 button {
   font-weight: 700;
 }
