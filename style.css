@@ -53,9 +53,6 @@ p {
   align-items: center;
   justify-content: space-between;
 }
-.flex {
-
-}
 button {
   height: 50px;
   width: 100%;
@@ -74,9 +71,6 @@ button {
 }
 .prizes p {
     text-decoration: line-through;
-}
-button {
-  font-weight: 700;
 }
 button:hover {
   background-color: var(--Green-700);
